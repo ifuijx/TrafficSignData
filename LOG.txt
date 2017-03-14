@@ -1,8 +1,10 @@
-ZZ-2017.3.12(1)
+JMZ-2017.3.12(1)~(14)
 JiMinZhi CaiWenHui ZhaoZhe
 2017.3.9  15:00~17:00 sunny
 10 No Left Turn +210 27~236
-14 Maximum Speed Limit +210 47~257	
+14 Maximum Speed Limit +210 47~256
+16 Roadwork +146 121~266
+6 No U-Turn +166 12~177	
 
 
 JMZ-2017.3.2(2)
