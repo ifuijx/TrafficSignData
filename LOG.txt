@@ -1,10 +1,17 @@
+JMZ-2017.3.23(1)~(2)
+JiMinZhi CaiWenHui ZhaoZhe LiuKe
+2017.3.16  15:00~17:00 sunny
+8 Traffic Limit +108 103~210
+
+
+
 JMZ-2017.3.22(1)~(18)
 JiMinZhi CaiWenHui ZhaoZhe LiuKe
 2017.3.16  15:00~17:00 sunny
 11 No Right Turn +201 10~210
 4 Upslope +203 1~203
 5 Downslope +202 13~214
-8 Traffic Limit +149 5~153
+8 Traffic Limit +98 5~102
 
 
 
@@ -97,16 +104,16 @@ TOTAL
 1 Sharp Turn: 0
 2 Tunnel: 0
 3 Railway: 0
-4 Upslope: 0
-5 Downslope: 12
-6 No U-Turn: 177
+4 Upslope: 203
+5 Downslope: 214
+6 No U-Turn: 241
 7 No Honking: 283
-8 Traffic Limit: 4
+8 Traffic Limit: 210
 9 NO Parking: 238
-10 No Left Turn: 236
-11 No Right Turn: 9
-12 Prohibiting Straight: 0
-13 Minimum Speed Limit: 0
+10 No Left Turn: 237
+11 No Right Turn: 210
+12 Prohibiting Straight: 201
+13 Minimum Speed Limit: 203
 14 Maximum Speed Limit: 256
 15 Caution Pedestrian: 266
 16 Roadwork: 266
